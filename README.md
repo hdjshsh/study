@@ -1,2 +1,2 @@
 # study
-demo
+仅供学习
